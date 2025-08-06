@@ -1,0 +1,19 @@
+
+
+<script>
+document.getElementById('ticketForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+
+  const subject = document.getElementById('subject').value;
+  const message = document.getElementById('message').value;
+
+  fetch('tickets.php', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ subject, message })
+  })
+  .then(response => response.text())
+  .then(data => alert(data))
+  .catch(error => console.error('Error:', error));
+});
+</script>

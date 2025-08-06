@@ -1,0 +1,51 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hi How can i help you."
+  },
+  {
+    "question": "Hi who  r u",
+    "answer": "Iam a chatbot to assit you with health insurance related questions"
+  },
+  {
+    "question": "What is health insurance?",
+    "answer": "Health insurance helps cover your medical expenses."
+  },
+  {
+    "question": "What is monthly insurance?",
+    "answer": "Monthly insurance refers to the monthly premium you pay for your health insurance coverage."
+  },
+  {
+    "question": "What does insurance mean?",
+    "answer": "Insurance is a contract that provides financial protection against losses."
+  },
+  {
+    "question": "How can I apply for insurance?",
+    "answer": "You can apply via the official university portal."
+  },
+  {
+    "question": "How do I get insurance?",
+    "answer": "Visit the student services center or apply online on the university site."
+  },
+  {
+    "question": "How much is  monthly insurance cost?",
+    "answer": "the monthly insurance is $150."
+  },
+  {
+    "question": "How much is  yearly insurance cost?",
+    "answer": "the yearly insurance is $2000."
+  },
+  {
+    "question": "can i get insurance on opt?",
+    "answer": "yes students on opt is eliglibe for opt"
+  },
+  {
+    "question": "can i get a waiver?",
+    "answer": "yes you can get a waiver"
+  },
+  {
+    "question": "ok thank you bye",
+    "answer": "Does that take care of everything as of right now? I am happy to help"
+  }
+
+]
